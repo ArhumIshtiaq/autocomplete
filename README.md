@@ -1,4 +1,6 @@
-# AI does AI Episode 2: Romance and Autocomplete This repository is a supplement to my video on AI-based autocomplete tools as part of my series AI does AI (Link coming soon!) 
+# AI does AI Episode 2: Romance and Autocomplete 
+
+This repository is a supplement to my video on AI-based autocomplete tools as part of my series AI does AI (Link coming soon!) 
 
  👁 The focus of this particular video and project was to learn about various ML and non-ML approached to implement a autocomplete feature that will complete sentences based on a seed input.
  
